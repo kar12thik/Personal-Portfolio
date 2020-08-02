@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio-developer/static/css/main.af04f035.chunk.css",
+    "main.js": "/portfolio-developer/static/js/main.7976be22.chunk.js",
+    "main.js.map": "/portfolio-developer/static/js/main.7976be22.chunk.js.map",
+    "runtime-main.js": "/portfolio-developer/static/js/runtime-main.3b0b36b6.js",
+    "runtime-main.js.map": "/portfolio-developer/static/js/runtime-main.3b0b36b6.js.map",
+    "static/js/2.9dd5e824.chunk.js": "/portfolio-developer/static/js/2.9dd5e824.chunk.js",
+    "static/js/2.9dd5e824.chunk.js.map": "/portfolio-developer/static/js/2.9dd5e824.chunk.js.map",
+    "static/css/3.48a93ee6.chunk.css": "/portfolio-developer/static/css/3.48a93ee6.chunk.css",
+    "static/js/3.b4cd1c58.chunk.js": "/portfolio-developer/static/js/3.b4cd1c58.chunk.js",
+    "static/js/3.b4cd1c58.chunk.js.map": "/portfolio-developer/static/js/3.b4cd1c58.chunk.js.map",
+    "static/css/4.7c01410c.chunk.css": "/portfolio-developer/static/css/4.7c01410c.chunk.css",
+    "static/js/4.9aba2cd5.chunk.js": "/portfolio-developer/static/js/4.9aba2cd5.chunk.js",
+    "static/js/4.9aba2cd5.chunk.js.map": "/portfolio-developer/static/js/4.9aba2cd5.chunk.js.map",
+    "index.html": "/portfolio-developer/index.html",
+    "precache-manifest.a45739bd643e0ef31af607aee090bb2e.js": "/portfolio-developer/precache-manifest.a45739bd643e0ef31af607aee090bb2e.js",
+    "service-worker.js": "/portfolio-developer/service-worker.js",
+    "static/css/3.48a93ee6.chunk.css.map": "/portfolio-developer/static/css/3.48a93ee6.chunk.css.map",
+    "static/css/4.7c01410c.chunk.css.map": "/portfolio-developer/static/css/4.7c01410c.chunk.css.map",
+    "static/css/main.af04f035.chunk.css.map": "/portfolio-developer/static/css/main.af04f035.chunk.css.map",
+    "static/media/index.css": "/portfolio-developer/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Wipro": "/portfolio-developer/static/media/Wipro.114f1fd8.bin",
+    "static/media/contactMail.webp": "/portfolio-developer/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/portfolio-developer/static/media/developerActivity.59389695.svg",
+    "static/media/manOnTable.svg": "/portfolio-developer/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/portfolio-developer/static/media/skill.34409398.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b0b36b6.js",
+    "static/js/2.9dd5e824.chunk.js",
+    "static/css/main.af04f035.chunk.css",
+    "static/js/main.7976be22.chunk.js"
+  ]
+}
