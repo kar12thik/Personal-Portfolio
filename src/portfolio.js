@@ -114,7 +114,7 @@ const workExperiences = {
 };
 
 const openSource = {
-  githubConvertedToken: "39207a3a99dc46f928d8ffafc17b063bafe4509e",
+  githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
   githubUserName: "kar12thik",
   showGithubProfile: "true",
 };
